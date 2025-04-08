@@ -4,7 +4,7 @@ By default setup for a Normally CLOSED switch to be connected between SWITCH_PIN
 
 By default setup to send a KEY_MEDIA_VOLUME_UP keyboard press
 
-the code prevents sending another keypress untill the switch is released and pressed again
+The code prevents sending another keypress untill the switch is released and pressed again
 
 Originally created for 3D printer timelapses as on some printers a simple cable trigger can take multiple photos when printer is purgin and / or the cable can be in the way
 
