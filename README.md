@@ -6,7 +6,9 @@ Credits to https://github.com/T-vK for creating the library that allowed me to e
 
 By default setup for a Normally CLOSED switch to be connected between SWITCH_PIN and GND
 
-By default setup to send a KEY_MEDIA_VOLUME_UP keyboard press
+I reccommend checking if the pin you chose has a pullup available and if it doesnt interfere with boot if grounded, otherwise its up to you which one you choose
+
+By default setup to send a KEY_MEDIA_VOLUME_UP keyboard press, can be changed easily by replacing with a different key from the above mentioned library
 
 The code prevents sending another keypress untill the switch is released and pressed again
 
