@@ -1,4 +1,4 @@
-This is an arduino code that can be used with any bluetooth capable arduino like ESP32 to act as a remote operated camera shutter with external switches etc.
+This is an arduino code that can be used with any bluetooth capable arduino like ESP32 to act as a remote operated camera shutter for a phone (I only tested one android phone honestly) with external switches etc.
 
 Prerequisites: https://github.com/T-vK/ESP32-BLE-Keyboard
 
