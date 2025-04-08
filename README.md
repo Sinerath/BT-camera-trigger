@@ -1,5 +1,9 @@
 This is an arduino code that can be used with any bluetooth capable arduino like ESP32 to act as a remote operated camera shutter with external switches etc.
 
+Prerequisites: https://github.com/T-vK/ESP32-BLE-Keyboard
+
+Credits to https://github.com/T-vK for creating the library that allowed me to even make this.
+
 By default setup for a Normally CLOSED switch to be connected between SWITCH_PIN and GND
 
 By default setup to send a KEY_MEDIA_VOLUME_UP keyboard press
